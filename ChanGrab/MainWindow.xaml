@@ -1,10 +1,10 @@
-﻿<Window x:Name="window01" x:Class="WpfApplicationTest.MainWindow"
+﻿<Window x:Name="window01" x:Class="SankakuChanGrab.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="ChanGrab" Height="80" Width="220">
+        Title="ChanGrab" Height="85.902" Width="267.541">
 
     <Grid>
-        <Button x:Name="button03" Content="Set testing 1" HorizontalAlignment="Left" Margin="111,10,0,0" VerticalAlignment="Top" Width="80" Click="Button_Click_03"/>
+        <Button x:Name="button03" Content="Set testing ON" HorizontalAlignment="Left" Margin="111,10,0,0" VerticalAlignment="Top" Width="91" Click="Button_Click_03"/>
         <Button x:Name="button05" Content="Get JSON" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="96" Click="button05_Click"/>
     </Grid>
 
